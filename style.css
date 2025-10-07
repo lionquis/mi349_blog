@@ -13,3 +13,8 @@ h2 {
     margin-bottom: 0.5em;
 }
 
+#wrap {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
