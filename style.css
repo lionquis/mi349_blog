@@ -9,6 +9,30 @@ h1 {
     margin-bottom: 0.5em;
 }
 
+h2 {
+    color: #0f0f0f;
+    font-family: Helvetica, sans-serif;
+    margin-bottom: 0.5em;
+}
+
+h3 {
+    color: #0f0f0f;
+    font-family: Helvetica, sans-serif;
+    margin-bottom: 0.5em;
+}
+
+h4 {
+    color: #0f0f0f;
+    font-family: Helvetica, sans-serif;
+    margin-bottom: 0.5em;
+}
+
+p {
+    color: #0f0f0f;
+    font-family: Helvetica, sans-serif;
+    margin-bottom: 0.5em;
+}
+
 #wrap {
     margin: 0 auto;
     width: 80%;
