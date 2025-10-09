@@ -17,12 +17,6 @@ p, li, {
     padding: 10px;
 }
 
-img {
-    float: right;
-    margin: 0 0 10px 10px;
-    border: 2px solid #0f0f0f;
-}
-
 #wrap {
     margin: 0 auto;
     width: 80%;
