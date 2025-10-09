@@ -17,12 +17,10 @@ p, li, {
     padding: 10px;
 }
 
-img {
-    border: 1px solid #0f0f0f;
-    margin: 5px;
-    padding: 5px;
+img.storm {
     float: right;
-    margin-left: 10px;
+    margin: 0 0 10px 10px;
+    border: 2px solid #0f0f0f;
 }
 
 #wrap {
