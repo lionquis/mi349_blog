@@ -18,7 +18,7 @@ p, li, {
 }
 
 img {
-    border: 0px solid #0f0f0f;
+    border: 1px solid #0f0f0f;
     margin: 5px;
     padding: 5px;
     float: right;
