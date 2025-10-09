@@ -17,6 +17,11 @@ p, li, {
     padding: 10px;
 }
 
+img.storm {
+    float: right;
+    margin-left: 10px;
+}
+
 #wrap {
     margin: 0 auto;
     width: 80%;
