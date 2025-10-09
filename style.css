@@ -17,6 +17,14 @@ p, li, {
     padding: 10px;
 }
 
+img {
+    border: 2px solid #0f0f0f;
+    margin: 10px;
+    padding: 10px;
+    float: right;
+    margin-left: 15px
+}
+
 #wrap {
     margin: 0 auto;
     width: 80%;
