@@ -3,7 +3,7 @@ body {
     background: #86A873;
 }
 
-h1, h2, h3, h4, {
+h1, h2, h3, h4 {
     color: #0f0f0f;
     font-family: Helvetica, sans-serif;
     margin-bottom: 0.5em;
