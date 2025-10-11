@@ -89,3 +89,10 @@ div.float_right img {
 .centered_text {
     text-align: center;
 }
+
+#main_title {
+    font-size: x-large;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    margin-bottom: 0.5em;
+}
