@@ -137,7 +137,6 @@ button:hover {
       box-shadow: 0 6px 20px #344a61;
 }
 
-button:active {
-      transform: translateY(0);
-      box-shadow: 0 3px 10px #dedede;
+[title*="My Blog"] {
+    font-weight: bold;
 }
