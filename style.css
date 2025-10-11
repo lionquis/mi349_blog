@@ -89,3 +89,8 @@ div.float_right img {
 .centered_text {
     text-align: center;
 }
+
+.nav-text {
+    line-height: normal;
+}
+
