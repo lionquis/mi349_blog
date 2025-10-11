@@ -90,10 +90,6 @@ div.float_right img {
     text-align: center;
 }
 
-.nav-text {
-    line-height: 0.5;
-}
-
 nav {
     display: flex;
     gap: 15px;
