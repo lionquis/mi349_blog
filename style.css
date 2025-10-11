@@ -29,6 +29,7 @@ p {
 
 .float_right {
     float: right;
+    width: 103px;
     margin: 0 0 10px 10px;
     background-color: #0f0f0f;
     padding: 10px;
