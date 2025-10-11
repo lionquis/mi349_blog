@@ -55,44 +55,37 @@ div.float_right img {
 
 .side_bar {
  flex: 1;
-    background-color: #3498db;
+    background-color: #c0e0de;
     padding: 20px;
-    border-top: 5px solid #0f0f0f;
-    border-right: 5px solid #0f0f0f;
-    border-bottom: 5px solid #0f0f0f;
-    border-left: 5px solid #0f0f0f;
-    border-radius: 8px;
+    border-top: 3px solid #0f0f0f;
+    border-right: 3px solid #0f0f0f;
+    border-bottom: 3px solid #0f0f0f;
+    border-left: 3px solid #0f0f0f;
+    border-radius: 6px;
 }
 
 .main_bar {
     flex: 2;
-    background-color: #2ecc71;
+    background-color: #9eefe9;
     padding: 20px;
-    border-top: 5px solid #0f0f0f;
-    border-right: 5px solid #0f0f0f;
-    border-bottom: 5px solid #0f0f0f;
-    border-left: 5px solid #0f0f0f;
-    border-radius: 8px;
+    border-top: 3px solid #0f0f0f;
+    border-right: 3px solid #0f0f0f;
+    border-bottom: 3px solid #0f0f0f;
+    border-left: 3px solid #0f0f0f;
+    border-radius: 6px;
 }
 
 .side_bar_right {
  flex: 1;
-    background-color: #3498db;
+    background-color: #4f7cac;
     padding: 20px;
-    border-top: 5px solid #0f0f0f;
-    border-right: 5px solid #0f0f0f;
-    border-bottom: 5px solid #0f0f0f;
-    border-left: 5px solid #0f0f0f;
-    border-radius: 8px;
+    border-top: 3px solid #0f0f0f;
+    border-right: 3px solid #0f0f0f;
+    border-bottom: 3px solid #0f0f0f;
+    border-left: 3px solid #0f0f0f;
+    border-radius: 6px;
 }
 
 .centered_text {
     text-align: center;
-}
-
-#main_title {
-    font-size: x-large;
-    text-align: center;
-    font-family: Helvetica, sans-serif;
-    margin-bottom: 0.5em;
 }
