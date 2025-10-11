@@ -85,3 +85,7 @@ div.float_right img {
     border-left: 5px solid #0f0f0f;
     border-radius: 8px;
 }
+
+[centered_text] {
+    text-align: center;
+}
