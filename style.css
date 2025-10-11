@@ -55,7 +55,7 @@ div.float_right img {
 
 .side_bar {
  flex: 1;
-    background-color: #c0e0de;
+    background-color: #7fbeab;
     padding: 20px;
     border-top: 3px solid #0f0f0f;
     border-right: 3px solid #0f0f0f;
@@ -66,7 +66,7 @@ div.float_right img {
 
 .main_bar {
     flex: 2;
-    background-color: #9eefe9;
+    background-color: #7e998a;
     padding: 20px;
     border-top: 3px solid #0f0f0f;
     border-right: 3px solid #0f0f0f;
@@ -77,7 +77,7 @@ div.float_right img {
 
 .side_bar_right {
  flex: 1;
-    background-color: #4f7cac;
+    background-color: #6bb59b;
     padding: 20px;
     border-top: 3px solid #0f0f0f;
     border-right: 3px solid #0f0f0f;
