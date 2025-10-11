@@ -1,6 +1,6 @@
 
 body {
-    background: #86A873;
+    background: #b3d89c;
 }
 
 h1, h2, h3, h4 {
@@ -55,7 +55,7 @@ div.float_right img {
 
 .side_bar {
  flex: 1;
-    background-color: #7fbeab;
+    background-color: #9dc3c2;
     padding: 20px;
     border-top: 3px solid #0f0f0f;
     border-right: 3px solid #0f0f0f;
@@ -66,7 +66,7 @@ div.float_right img {
 
 .main_bar {
     flex: 2;
-    background-color: #95b8a4;
+    background-color: #4d7298;
     padding: 20px;
     border-top: 3px solid #0f0f0f;
     border-right: 3px solid #0f0f0f;
@@ -77,7 +77,7 @@ div.float_right img {
 
 .side_bar_right {
  flex: 1;
-    background-color: #6bb59b;
+    background-color: #77a6b6;
     padding: 20px;
     border-top: 3px solid #0f0f0f;
     border-right: 3px solid #0f0f0f;
