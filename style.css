@@ -104,3 +104,17 @@ nav {
     margin-bottom: 0.5em;
     font-size: 5em;
 }
+
+.form-container {
+      max-width: 900px;
+      margin: 0 auto;
+      background: #dedede;
+      padding: 40px;
+      border-radius: 12px;
+}
+
+.form-group {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+}

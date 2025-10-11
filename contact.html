@@ -45,6 +45,42 @@
     </form>
     </div>
 
+    <div class="form-container">
+    <h1>Contact Information Form</h1>
+    
+    <form>
+      <div class="form-row">
+        <div class="form-group">
+          <label for="firstName">First Name</label>
+          <input type="text" id="firstName" name="firstName" required>
+        </div>
+        <div class="form-group">
+          <label for="lastName">Last Name</label>
+          <input type="text" id="lastName" name="lastName" required>
+        </div>
+      </div>
+      <div class="form-row">
+        <div class="form-group">
+          <label for="email">Email</label>
+          <input type="email" id="email" name="email" required>
+        </div>
+      </div>
+      <div class="form-row">
+        <div class="form-group"></div>
+            <label for="reason">Reason for Contact</label>
+                <select id="reason" name="reason">
+                    <option value="saying hi">Saying Hi</option>
+                    <option value="contractor">Looking for a Contractor</option>
+                    <option value="interview">Interested in an Interview</option>
+                    <option value="other">Other</option>
+                </select>
+        </div>
+     </div>
+
+      <button type="submit">Submit Form</button>
+    </form>
+  </div>
+
 
 </body>
 </html>
