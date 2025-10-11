@@ -96,3 +96,11 @@ nav {
     justify-content: center;
     margin-bottom: 20px;
 }
+
+.title_text {
+    text-align: center;
+    color: #0f0f0f;
+    font-family: Helvetica, sans-serif;
+    margin-bottom: 0.5em;
+    font-size: x-large;
+}
