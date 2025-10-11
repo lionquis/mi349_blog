@@ -121,7 +121,7 @@ nav {
 
 button {
       background: linear-gradient(135deg, #9dc3c2 0%, #4d7298 100%);
-      color: white;
+      color: #dedede;
       padding: 14px 32px;
       border: none;
       border-radius: 6px;
@@ -130,4 +130,9 @@ button {
       cursor: pointer;
       transition: transform 0.2s, box-shadow 0.2s;
       margin-top: 20px;
+}
+
+button:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px #344a61;
 }
