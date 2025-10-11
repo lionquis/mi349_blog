@@ -53,19 +53,25 @@ div.float_right img {
     margin: 0 auto;
 }
 
-.sidebar {
+.side_bar {
  flex: 1;
     background-color: #3498db;
     padding: 20px;
-    color: white;
+    border-top: 5px solid #0f0f0f;
+    border-right: 5px solid #0f0f0f;
+    border-bottom: 5px solid #0f0f0f;
+    border-left: 5px solid #0f0f0f;
     border-radius: 8px;
 }
 
-.main-content {
+.main_bar {
     flex: 2;
     background-color: #2ecc71;
     padding: 20px;
-    color: white;
+    border-top: 5px solid #0f0f0f;
+    border-right: 5px solid #0f0f0f;
+    border-bottom: 5px solid #0f0f0f;
+    border-left: 5px solid #0f0f0f;
     border-radius: 8px;
 }
 
