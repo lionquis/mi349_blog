@@ -33,17 +33,17 @@ p {
     margin: 0 0 10px 10px;
     background-color: #0f0f0f;
     padding: 10px;
-    border-top: 1px solid #dedede;
-    border-right: 2px solid #dedede;
-    border-bottom: 2px solid #dedede;
-    border-left: 1px solid #dedede;
+    border-top: 3px solid #dedede;
+    border-right: 3px solid #dedede;
+    border-bottom: 3px solid #dedede;
+    border-left: 3px solid #dedede;
 }
 
 div.float_right img {
-    border-top: 2px solid #dedede;
-    border-right: 1px solid #dedede;
-    border-bottom: 1px solid #dedede;
-    border-left: 2px solid #dedede;
+    border-top: 3px solid #dedede;
+    border-right: 3px solid #dedede;
+    border-bottom: 3px solid #dedede;
+    border-left: 3px solid #dedede;
 }
 
 #wrap {
