@@ -185,3 +185,11 @@ img {
     object-fit: cover;
     object-position: center;
 }
+
+footer {
+    background-color: #0f0f0f;
+    color: #dedede;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
