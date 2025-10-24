@@ -95,6 +95,7 @@ nav {
     gap: 15px;
     justify-content: center;
     margin-bottom: 20px;
+    gap: 1rem;
 }
 
 .title_text {
