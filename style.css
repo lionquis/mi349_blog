@@ -167,9 +167,9 @@ a[href$=".html"]:before {
     }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 826px) {
     table {
-        font-size: 0.9em;
+        font-size: 1em;
         border-collapse: collapse;
         width: 100%;
         margin-bottom: 1.5em;
