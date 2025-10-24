@@ -92,9 +92,9 @@ div.float_right img {
 
 nav {
     display: flex;
-    gap: 15px;
+    gap: 5px;
     justify-content: center;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     gap: 1rem;
 }
 
