@@ -27,6 +27,25 @@ span {
     color: #dedede;
 }
 
+.float_right {
+    float: right;
+    width: 303px;
+    margin: 0 0 10px 10px;
+    background-color: #0f0f0f;
+    padding: 10px;
+    border-top: 3px solid #dedede;
+    border-right: 3px solid #dedede;
+    border-bottom: 3px solid #dedede;
+    border-left: 3px solid #dedede;
+}
+
+div.float_right img {
+    border-top: 3px solid #dedede;
+    border-right: 3px solid #dedede;
+    border-bottom: 3px solid #dedede;
+    border-left: 3px solid #dedede;
+}
+
 .container {
     display: flex;
     gap: 20px;
@@ -154,6 +173,11 @@ a[href$=".html"]:before {
         display: block;
         margin: 0 auto 20px auto;
     }
+
+    .float_none {
+        float: none;
+        display: block;
+        margin: 0 auto 20px auto;
 }
 
 header {
