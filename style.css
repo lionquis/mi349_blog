@@ -168,10 +168,7 @@ a[href$=".html"]:before {
 }
 
 @media (max-width: 639px) {
-    .clear_float {
-        clear: both;
-
-    .storm, .me {
+    .storm {
         clear: both;
     }
 }
@@ -192,5 +189,4 @@ img {
     display: block;
     object-fit: cover;
     object-position: center;
-}
 }
