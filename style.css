@@ -168,10 +168,10 @@ a[href$=".html"]:before {
 }
 
 @media (max-width: 639px) {
-    img {
+    .storm {
         float: none;
         display: block;
-        margin: 0 auto 10px auto;
+        margin: 0 auto 50px auto;
         object-position: center;
     }
 }
