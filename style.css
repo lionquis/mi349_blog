@@ -206,3 +206,7 @@ img {
         margin-right: auto;
     }
 }
+
+section {
+    padding: clamp (2rem, 5vw, 5rem) clamp (1rem, 5vw, 3rem);
+}
