@@ -170,8 +170,11 @@ a[href$=".html"]:before {
 @media (max-width: 639px) {
     .clear_float {
         clear: both;
-}
 
+    .storm, .me {
+        clear: both;
+    }
+}
 
 header {
     padding: 20px;
@@ -189,4 +192,5 @@ img {
     display: block;
     object-fit: cover;
     object-position: center;
+}
 }
