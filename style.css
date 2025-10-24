@@ -169,9 +169,8 @@ a[href$=".html"]:before {
 
 @media (max-width: 639px) {
     .storm {
-        float: none;
-        display: block;
-        margin: 0 auto 50px auto;
+        clear: both;
+        margin: 0 auto 10px auto;
         object-position: center;
     }
 }
