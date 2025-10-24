@@ -172,13 +172,3 @@ a[href$=".html"]:before {
         width: 90%;
     }
 }
-
-header {
-    padding: 20px;
-    margin-bottom: 20px;
-}
-
-main {
-    padding: 40px;
-    margin-bottom: 40px;
-}
