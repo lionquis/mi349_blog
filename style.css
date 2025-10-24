@@ -171,13 +171,8 @@ a[href$=".html"]:before {
     img {
         float: none;
         display: block;
-        margin: 0 auto 20px auto;
+        margin: 0 auto 10px auto;
     }
-
-    .float_none {
-        float: none;
-        display: block;
-        margin: 0 auto 20px auto;
 }
 
 header {
