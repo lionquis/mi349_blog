@@ -172,11 +172,6 @@ a[href$=".html"]:before {
         display: block;
         width: 100%;
     }
-
-    td {
-        position: relative;
-        padding: auto;
-    }
 }
 
 header {
