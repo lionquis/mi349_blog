@@ -155,8 +155,6 @@ a[href$=".html"]:before {
     font-size: 0.8em;
 }
 
-## Responsive Design
-
 @media (max-width: 768px) {
     .container {
         flex-direction: column;
