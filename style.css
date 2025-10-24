@@ -191,3 +191,15 @@ img {
     object-fit: cover;
     object-position: center;
 }
+
+.float_right_2 {
+    float: right;
+    width: 303px;
+    margin: 0 0 10px 10px;
+    background-color: #0f0f0f;
+    padding: 10px;
+    border-top: 3px solid #dedede;
+    border-right: 3px solid #dedede;
+    border-bottom: 3px solid #dedede;
+    border-left: 3px solid #dedede;
+}
