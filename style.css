@@ -173,24 +173,17 @@ a[href$=".html"]:before {
     }
 }
 
-@media (max-width: 576px) {
-    .container {
-        flex-direction: column;
-    }
-
-    .float_right {
-        float: none;
-        width: 200%;
-        margin: 0 0 10px 0;
-    }
-
-    #side_bar, #main_bar, #side_bar_right {
-        flex: none;
-        width: 200%;
-    }
+header {
+    padding: 20px;
+    margin-bottom: 20px;
 }
 
 main {
     padding: 40px;
     margin-bottom: 40px;
+}
+
+img {
+    width: 100%;
+    height: auto;
 }
