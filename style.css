@@ -216,3 +216,11 @@ section {
     font-weight: bold;
     margin-bottom: 1rem;
 }
+
+@media (max-width: 639px) {
+    .title_text {
+        font-size: clamp(1.5rem, 4vw, 2rem);
+        font-weight: bold;
+        margin-bottom: 1rem;
+    }
+}
