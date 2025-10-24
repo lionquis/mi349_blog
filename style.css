@@ -161,12 +161,6 @@ a[href$=".html"]:before {
         flex-direction: column;
     }
 
-    .float_right {
-        float: none;
-        width: 90%;
-        margin: 0 0 10px 0;
-    }
-
     #side_bar, #main_bar, #side_bar_right {
         flex: none;
         width: 90%;
