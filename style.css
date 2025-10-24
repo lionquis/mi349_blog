@@ -168,9 +168,8 @@ a[href$=".html"]:before {
 }
 
 @media (max-width: 639px) {
-    img {
-        float: right;
-    }
+    .clear_float {
+        clear: both;
 }
 
 
