@@ -167,12 +167,6 @@ a[href$=".html"]:before {
     }
 }
 
-@media (max-width: 639px) {
-    .storm {
-        clear: right;
-    }
-}
-
 header {
     padding: 20px;
     margin-bottom: 20px;
@@ -202,4 +196,10 @@ img {
     border-right: 3px solid #dedede;
     border-bottom: 3px solid #dedede;
     border-left: 3px solid #dedede;
+}
+
+@media (max-width: 639px) {
+    .float_right_2 {
+        float: none;
+    }
 }
