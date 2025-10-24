@@ -206,3 +206,11 @@ img {
         margin-right: auto;
     }
 }
+
+h1 {
+ font=size: clamp(1.5rem, 5vw, 3rem);
+}
+
+p {
+ font=size: clamp(1rem, 2vw, 1.125rem);
+}
