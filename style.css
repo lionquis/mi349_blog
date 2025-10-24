@@ -168,7 +168,7 @@ a[href$=".html"]:before {
 }
 
 @media (max-width: 639px) {
-    .storm {
+    img {
         clear: right;
     }
 }
