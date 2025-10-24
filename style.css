@@ -167,6 +167,12 @@ a[href$=".html"]:before {
     }
 }
 
+@media (max-width: 639px) {
+    img {
+        float: right;
+    }
+}
+
 
 header {
     padding: 20px;
