@@ -167,6 +167,18 @@ a[href$=".html"]:before {
     }
 }
 
+@media (max-width: 768px) {
+    table, thread, tbody, tr, td, th {
+        display: block;
+        width: 100%;
+    }
+
+    td {
+        position: relative;
+        padding: auto;
+    }
+}
+
 header {
     padding: 20px;
     margin-bottom: 20px;
@@ -204,6 +216,11 @@ img {
         margin-left: auto;
         margin-right: auto;
     }
+
+    .title_text {
+        font-size: clamp(2.5rem, 5vw, 3rem);
+        font-weight: bold;
+    }
 }
 
 section {
@@ -214,11 +231,4 @@ section {
     font-size: clamp(1.5rem, 4vw, 2rem);
     font-weight: bold;
     margin-bottom: 1rem;
-}
-
-@media (max-width: 639px) {
-    .title_text {
-        font-size: clamp(2.5rem, 5vw, 3rem);
-        font-weight: bold;
-    }
 }
