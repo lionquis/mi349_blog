@@ -154,3 +154,22 @@ a[href$=".html"]:before {
     content: "🔗 ";
     font-size: 0.8em;
 }
+
+## Responsive Design
+
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column;
+    }
+
+    .float_right {
+        float: none;
+        width: 100%;
+        margin: 0 0 10px 0;
+    }
+
+    #side_bar, #main_bar, #side_bar_right {
+        flex: none;
+        width: 100%;
+    }
+}
