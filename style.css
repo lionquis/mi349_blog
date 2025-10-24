@@ -186,6 +186,7 @@ main {
 img {
     max-width: 100%;
     height: auto;
+    float: right;
     display: block;
     object-fit: cover;
     object-position: center;
