@@ -172,27 +172,6 @@ a[href$=".html"]:before {
         display: block;
         width: 100%;
     }
-
-    thread {
-        display: none;
-    }
-
-    td {
-        position: relative;
-        padding-left: 50%;
-        margin-bottom: 1.5em;
-    }
-
-    td:before {
-        content: attr(data-label);
-        position: absolute;
-        top: 0;
-        left: 1rem;
-        width: 45%;
-        padding: 10px;
-        white-space: nowrap;
-        font-weight: bold;
-    }
 }
 
 header {
